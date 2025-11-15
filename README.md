@@ -1,5 +1,8 @@
 🔥📋 To-Do-List-App
 A clean and simple To-Do List web app built with HTML, inline CSS, and JS. ✨ Add tasks, view them instantly, and delete them with one click. ✔️ Lightweight, responsive, and perfect for beginners learning DOM handling and interactive UI. 🚀
+<img width="616" height="471" alt="Screenshot 2025-11-15 163431" src="https://github.com/user-attachments/assets/c7e56505-3892-429e-942e-6a048f050bf4" />
+
+
 
 🌈 To-Do List Web App
 

@@ -35,4 +35,20 @@ No installations required.
 
 ---
 
-## 📁 Project Structure
+📁🌈 Project Structure
+
+📦 To-Do-List-App
+├── 🗂️ index.html      → Main Webpage (HTML + Inline CSS + JS)
+├── 📜 README.md       → Project Documentation
+└── 🖼️ assets/         → (Optional) Images / Icons Folder
+
+---
+
+## 🎯 Purpose
+This project helps beginners understand DOM manipulation, event listeners, and building interactive UI components using vanilla JavaScript.
+
+---
+
+## ⭐ Support
+If you like this project, please ⭐ star the repo and share it! 💖
+
